@@ -26,4 +26,5 @@ Strategic Performance Dashboard for managers and employees
   <li><strong>git add fileNameHere</strong>-> adds a specific file to the commit queue</li>
   <li><strong>git add .</strong> -> adds all files to the queue ready to be committed</li>
   <li><strong>git commit -m "message goes here"</strong> ->committs the added files to the master.  You need to add a message otherwise there will be an error</li>
+  <li><strong>git push</strong> -> merges the files and all changes with the master branch</li>
  </ul>
