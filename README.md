@@ -5,7 +5,7 @@ Strategic Performance Dashboard for managers and employees
 
 <ul>
   <li>Follo these instructions: <a href = "https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">git installation</a></li>
-  <li>Verify installation by typing the following command:</li>
+  <li>Verify installation by typing the following command in your terminal<strong>(MAC)</strong> or command prompt<strong>(Windows)</strong>:</li>
   <ul>
     <li>Mac OS: </li>
     
