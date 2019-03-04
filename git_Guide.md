@@ -1,8 +1,3 @@
-<style type="text/css">
-  h1{
-    color:"blue";
-  }
-  
  </style>
 
 <h1>Installing git</h1>
