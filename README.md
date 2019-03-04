@@ -8,7 +8,7 @@ Strategic Performance Dashboard for managers and employees
   <li>Windows installation: <a href="https://support.codebasehq.com/articles/getting-started/git-on-windows">git installation(Windows)</a></li>
   <li>Verify installation by typing the following command in your terminal<strong>(MAC / Linux)</strong> or command prompt<strong>(Windows)</strong>:</li>
   <ul>
-    <li><strong>Command</strong><em>git --version</em></li>
+    <li><strong>Command:</strong><em> git --version</em></li>
   </ul>
   
  </ul>
