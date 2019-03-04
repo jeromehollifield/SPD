@@ -31,4 +31,5 @@
 <ul>
   <li><a href="https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging">Basics of Branching and Merging</a></li>
   <li><a href="https://jameschambers.co/writing/git-team-workflow-cheatsheet/">Git Team Cheatsheet</a></li>
+  <li><a href="https://www.git-tower.com/learn/git/commands/git-merge">Merge command</a></li>
 </ul>
