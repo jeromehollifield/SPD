@@ -1,4 +1,4 @@
- </style>
+
 
 <h1>Installing git</h1>
 
