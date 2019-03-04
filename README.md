@@ -15,3 +15,14 @@ Strategic Performance Dashboard for managers and employees
 
 <h2>Using git</h2>
 <p>If you followed the instructions on installing git on Mac, Linux, or Windows, then all the code below will work regardless of the OS.  The code is based on bash commands, which are native to UNIX environments.  The windows installation guided you through the process of installing git in a way that you can use bash commands.</p>
+
+
+<h2>Command list</h2>
+<p>The following are commands that are commonly used for reference:</p>
+<ul>
+  <li><strong>git init</strong> -> will create a new repository in the directory(we wont need to use this)</li>
+  <li><strong>git clone "repository url"</strong> -> clones an existing repository into current working directory</li>
+  <li><strong></strong></li>
+  <li><strong></strong></li>
+  <li><strong></strong></li>
+ </ul>
