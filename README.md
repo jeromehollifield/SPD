@@ -22,7 +22,7 @@ Strategic Performance Dashboard for managers and employees
 <ul>
   <li><strong>git init</strong> -> will create a new repository in the directory(we wont need to use this)</li>
   <li><strong>git clone "repository url"</strong> -> clones an existing repository into current working directory</li>
-  <li><strong></strong></li>
-  <li><strong></strong></li>
-  <li><strong></strong></li>
+  <li><strong>git status</strong> ->shows repository files added and file ready to be committed</li>
+  <li><strong>git add fileNameHere</strong>-> adds a specific file to the commit queue</li>
+  <li><strong>git add .</strong> -> adds all files to the queue ready to be committed</li>
  </ul>
