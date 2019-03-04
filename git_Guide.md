@@ -1,6 +1,6 @@
-<style>
+<style type="text/css">
   h1{
-    color:blue;
+    color:"blue";
   }
   
  </style>
