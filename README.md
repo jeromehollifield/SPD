@@ -28,3 +28,10 @@ Strategic Performance Dashboard for managers and employees
   <li><strong>git commit -m "message goes here"</strong> ->committs the added files to the master.  You need to add a message otherwise there will be an error</li>
   <li><strong>git push</strong> -> merges the files and all changes with the master branch</li>
  </ul>
+
+<h2>Branching</h2>
+<p>Branching is a very usefull technique that allows us to test new features without risking damaging the master repository.  Once the feature has been tested and works as it should, it can be merged with the master. These are resources to help with branching:</p>
+<ul>
+  <li><a href="https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging">Basics of Branching and Merging</a></li>
+  <li><a href="https://jameschambers.co/writing/git-team-workflow-cheatsheet/">Git Team Cheatsheet</a></li>
+</ul>
