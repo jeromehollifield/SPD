@@ -1,3 +1,10 @@
+<style>
+  h1{
+    color:blue;
+  }
+  
+ </style>
+
 <h1>Installing git</h1>
 
 <ul>
