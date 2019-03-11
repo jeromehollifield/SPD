@@ -1,4 +1,4 @@
-- [ ] Task
+- [x] Set up GUI
 - [ ] Task
 - [ ] Task
 - [ ] Task
