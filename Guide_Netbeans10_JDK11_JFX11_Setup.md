@@ -100,7 +100,8 @@
         <li>Select the <strong>JavaFX11</strong> Library you created Earlier and click <strong>Add Library</strong></li>
        </ul>
       
-      </li> 
+      <li>Next go to <strong>Properties > Libraries > Compile > Classpath > ... box > Add JAR/FOLDER</strong></li>
+      <li>add all the .jars from the lib folder</li>
  </ol>
   
 
