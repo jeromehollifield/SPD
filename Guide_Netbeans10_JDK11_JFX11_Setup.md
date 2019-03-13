@@ -39,7 +39,18 @@
 
 <ol>
   <li>Extract the .zip netbeans file to the location you want it installed permanently (i extracted it to my <em>Program Files</em> folder).</li>
-  
+  <li>In your netbeans file that you extracted, go to the<strong>bin</strong> folder.
+  <li>run the netbeans.ext (64 bit) as administrator</li>
+  <li>In the IDE, choose <strong>Tools > plugins > Available plugins</strong></li>
+  <li>Select the following plugins: 
+  <ul>
+    <li>MuiltiProperties</li>
+    <li>netbeans-deb-export</li>
+    <li>netbeans-appimage-export</li>
+    <li>nbjavac Library</li>
+    <li>Oracle JS Parser Implementation</li>
+  </ul>
+  </li>
 </ol>
 
 
