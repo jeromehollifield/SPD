@@ -65,6 +65,10 @@
         <li>Go to your environment variables windows settings</li>
         <li>Highlight <strong>Path</strong> in the System variables section and click <strong>edit</strong></li>
         <li>Click <strong>New</strong>, then <strong>Browse</strong></li>
+        <li>Travel to the directory where you put the JavaFX SDK folder and open it</li>
+        <li>It will open that directory, which has three other folders: bin , legal, and lib</li>
+        <li>Select the <strong>lib</strong</> folder and click <strong>OK</strong></li>
+        <li>Click <strong>OK</strong> again until you have colosed the environment settings window.</li>
       </ul>
   </li>
   <li></li>
