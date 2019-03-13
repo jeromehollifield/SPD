@@ -18,7 +18,10 @@
     <li>An option to "Edit the system environment Variables" will come up...select it.</li>
     <li>In the windows that pops up select <strong>Advanced Tab > Environment Variables</strong></li>
     <li>In System Variables section, highlight <strong>Path</strong> and click <strong>Edit</strong></li>
-    
+    <li>Click <strong>New</strong></li>
+    <li>Click <strong>Browse</strong></li>
+    <li>Travel to the directory where Java 11 is installed.  Once there open the folder and select the <strong>bin</strong> folder.</li>
+    <li>Click <strong>OK</strong> and keep clicking OK on all other windows until everything closes</li>
   </ul>
   
 </ol>
