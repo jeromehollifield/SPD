@@ -17,6 +17,8 @@
     <li>In Windows search, type <em>"variables"</em></li>
     <li>An option to "Edit the system environment Variables" will come up...select it.</li>
     <li>In the windows that pops up select <em>Advanced Tab > Environment Variables</em></li>
+    <li>In System Variables section, highlight <em>Path</em> and click <em>Edit</em></li>
+    
   </ul>
   
 </ol>
