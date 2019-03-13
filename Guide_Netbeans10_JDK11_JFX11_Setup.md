@@ -107,6 +107,12 @@
    <li>In VM Options type:<strong> --add-modules=javafx.controls,javafx.fxml</strong></li>
    <li>Click <strong> apply</strong> and close the dialog</li>
  </ol>
+ 
+ 
+ 
+ <h3>Sources<h3>
+  <a href="https://openjfx.io/openjfx-docs/#install-javafx">JavaFX 11 on Netbeans</a>
+  
   
 
 
