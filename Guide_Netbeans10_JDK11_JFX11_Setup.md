@@ -67,13 +67,21 @@
         <li>Click <strong>New</strong>, then <strong>Browse</strong></li>
         <li>Travel to the directory where you put the JavaFX SDK folder and open it</li>
         <li>It will open that directory, which has three other folders: bin , legal, and lib</li>
-        <li>Select the <strong>lib</strong</> folder and click <strong>OK</strong></li>
+        <li>Select the <strong>lib</strong></> folder and click <strong>OK</strong></li>
         <li>Click <strong>OK</strong> again until you have colosed the environment settings window.</li>
       </ul>
   </li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Setup JavaFX 11 on Netbeans</li>
+  <li>Open Netbeans</li>
+  <li><strong>Go to Tools > Libraries > New Library</strong></li>
+  <li>Name it <strong>JavaFX11</strong></li>
+  <li>Add the .jars in the lib folder from JavaFX11:
+      <ul>
+        <li>Make sure the <strong>Classpath</strong> tab is selected</li>
+        <li>Click the <strong>Add JAR/FOlder...</strong> button</li>
+        <li>Open the lib folder in the JavaFX11 folder and select all the .jar files, but make sure you don't add the src.zip file because it will cause an exception</li>
+        <li>click the <strong>Add JAR/Folder</strong> button</li>
+      </ul>
 </ol>
 
 
