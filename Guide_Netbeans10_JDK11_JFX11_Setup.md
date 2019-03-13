@@ -51,6 +51,8 @@
     <li>Oracle JS Parser Implementation</li>
   </ul>
   </li>
+  <li>Click <strong> install</strong> and go through the installation process.</li>
+  <li>Restart Netbeans</li>
 </ol>
 
 
