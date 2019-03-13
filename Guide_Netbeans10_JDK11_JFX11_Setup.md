@@ -87,20 +87,20 @@
 <h2>IMPORTANT: To create a Project</h2>
 <p> Don't create a JavaFX project.  The current version of netbeans doesn't have support for that yet.  You can try and switch the Java project to a JavaFX project instead later on. To do that:</p>
 <ul>
-  <li>Go to <strong> Properties > Build > Deployment > Switch Project to JavaFX Deployment Model</li>
+  <li>Go to <strong> Properties > Build > Deployment > Switch Project to JavaFX Deployment Model</strong></li>
  </ul>
  <h2>Verify the JDK on the FX application</h2>
  <ol>
   <li>Right Click on the Project Name and click <strong>Properties</strong></li>
   <li>Go to <strong>Libraries</strong> and ensure the Java Platform says something like: JDK 11</li>
   <li>After you verify, you need to add the Library: 
-    </ol>
+   
       <ol>
         <li>Go to <strong>Properties > Libraries > Compile > Module-Path > ... box</li>
         <li>Select <strong>Add Library</strong></li>
         <li>Select the <strong>JavaFX11</strong> Library you created Earlier and click <strong>Add Library</strong></li>
        </ol>
-       </li> 
+   </li> 
  </ol>
   
 
