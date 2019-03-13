@@ -56,4 +56,14 @@
 </ol>
 
 
+<h2>JavaFX11 for Netbeans 10</h2>
+<p>Ensure to follow the steps as there is a bit of a process for JavaFX to work correctly on Netbeans 10</p>
+<ol>
+  </li>Unzip the JavaFX SDK to desired location (i put mine in the java folder in program files where the JDK is).</li>
+  </li></li>
+  </li></li>
+  </li></li>
+  </li></li>
+</ol>
+
 
