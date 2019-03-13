@@ -89,7 +89,7 @@
 <ul>
   <li>Go to <strong> Properties > Build > Deployment > Switch Project to JavaFX Deployment Model</strong></li>
  </ul>
- <h2>Verify the JDK on the FX application</h2>
+ <h2>Final Steps</h2>
  <ol>
   <li>Right Click on the Project Name and click <strong>Properties</strong></li>
   <li>Go to <strong>Libraries</strong> and ensure the Java Platform says something like: JDK 11</li>
