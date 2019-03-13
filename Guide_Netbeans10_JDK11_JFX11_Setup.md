@@ -96,12 +96,15 @@
   <li>After you verify, you need to add the Library: 
    <ul>
      <li>Go to <strong>Properties > Libraries > Compile > Module-Path > ... box</strong></li>
-        <li>Select <strong>Add Library</strong></li>
-        <li>Select the <strong>JavaFX11</strong> Library you created Earlier and click <strong>Add Library</strong></li>
-       </ul>
+     <li>Select <strong>Add Library</strong></li>
+     <li>Select the <strong>JavaFX11</strong> Library you created Earlier and click <strong>Add Library</strong></li>
+   </ul>
       
-      <li>Next go to <strong>Properties > Libraries > Compile > Classpath > ... box > Add JAR/FOLDER</strong></li>
-      <li>add all the .jars from the lib folder</li>
+   <li>Next go to <strong>Properties > Libraries > Compile > Classpath > ... box > Add JAR/FOLDER</strong></li>
+   <li>add all the .jars from the lib folder</li>
+   <li>When you do this, all JavaFX libraries will be recognized</li>
+   <li>Finally, there is an issue where an error will show: "Error: JavaFX runtime components are missing, and are required to run this application".  To fix this, go back to <strong>Properties >Run</strong></li>
+   <li>In VM Options type: --add-modules=javafx.controls,javafx.fxml</li>
  </ol>
   
 
