@@ -23,13 +23,8 @@
     <li>Travel to the directory where Java 11 is installed.  Once there open the folder and select the <strong>bin</strong> folder.</li>
     <li>Click <strong>OK</strong> and keep clicking OK on all other windows until everything closes</li>
   </ul>
-  <li><h3> Verify Java installation and environment path</h3</li>
-    <ul>
-        <li>Open a command prompt on windows</li>
-        <li>In the command prompt type <strong><em>javac -version</em></strong><li>
-        <li>You should get an output along the lines of: <em>javac 11.0.2</em></li>
-        <li>If your output shows the correct version of java, then you have setup your installation and environment path correctly.</li>
-    </ul>
+  <li><h3>Verify Java installation and environment path</h3</li>
+    
   
 </ol>
 
