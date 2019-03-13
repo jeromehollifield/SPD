@@ -3,8 +3,8 @@
 <p>This project will require that all contributors use the same tools, otherwise there will be compatibility issues.</p>
 <strong>FOllOW these directions in sequence to get the environment running correctly:</strong>
 <ol>
-  <li>Download and install JDK11</li>
-  <li>Download and install Netbeans 10</li>
-  <li>Download and install JavaFX</li>
+  <li>Download JDK11: <a href ="https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html">Here</a></li>
+  <li>Download Netbeans 10</li>
+  <li>Download JavaFX11</li>
 </ol>
 
