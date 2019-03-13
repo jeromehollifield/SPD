@@ -94,6 +94,7 @@
   <li>Right Click on the Project Name and click <strong>Properties</strong></li>
   <li>Go to <strong>Libraries</strong> and ensure the Java Platform says something like: JDK 11</li>
   <li>After you verify, you need to add the Library: 
+    </ol>
       <ol>
         <li>Go to <strong>Properties > Libraries > Compile > Module-Path > ... box</li>
         <li>Select <strong>Add Library</strong></li>
