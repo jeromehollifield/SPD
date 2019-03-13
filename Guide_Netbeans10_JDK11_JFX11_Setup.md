@@ -11,8 +11,8 @@
 
 <h2>Setting up JDK11</h2>
 <ol>
-  <li>Run the .exe installer to install JDK 11.</li>
-  <li>On windows, once the installation finishes you will need to set the system environment variables</li>
+  <li><strong>Run the .exe installer to install JDK 11.</strong></li>
+  <li><strong>On windows, once the installation finishes you will need to set the system environment variables</strong></li>
   <ul>
     <li>In Windows search, type <em>"variables"</em></li>
     <li>An option to "Edit the system environment Variables" will come up...select it.</li>
@@ -23,7 +23,7 @@
     <li>Travel to the directory where Java 11 is installed.  Once there open the folder and select the <strong>bin</strong> folder.</li>
     <li>Click <strong>OK</strong> and keep clicking OK on all other windows until everything closes</li>
   </ul>
-  <li>Verify Java installation and environment path
+  <li><strong>Verify Java installation and environment path.</strong>
     <ul>
         <li>Open a command prompt on windows</li>
         <li>In the command prompt type <strong><em>javac -version</em></strong><li>
