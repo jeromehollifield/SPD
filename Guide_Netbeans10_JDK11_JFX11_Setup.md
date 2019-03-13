@@ -104,7 +104,7 @@
    <li>add all the .jars from the lib folder</li>
    <li>When you do this, all JavaFX libraries will be recognized</li>
    <li>Finally, there is an issue where an error will show: "Error: JavaFX runtime components are missing, and are required to run this application".  To fix this, go back to <strong>Properties >Run</strong></li>
-   <li>In VM Options type: --add-modules=javafx.controls,javafx.fxml</li>
+   <li>In VM Options type:<strong> --add-modules=javafx.controls,javafx.fxml</strong></li>
  </ol>
   
 
