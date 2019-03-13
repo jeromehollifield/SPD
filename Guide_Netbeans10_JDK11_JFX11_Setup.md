@@ -38,7 +38,7 @@
 <h2>Installing and setting up Netbeans 10</h2>
 
 <ol>
-  <li>Extract the .zip netbeans file to the location you want it installed permanently (i extracted it to my <em>Program Files</em> folder.</li>
+  <li>Extract the .zip netbeans file to the location you want it installed permanently (i extracted it to my <em>Program Files</em> folder).</li>
   
 </ol>
 
