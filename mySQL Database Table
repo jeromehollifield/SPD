@@ -1,0 +1,78 @@
+CREATE TABLE EmployeeTable (
+-- System Generated Unique Identifier
+-- *NOT NULL constraint enforces a 
+-- column to NOT accept NULL values
+EmployeeID int NOT NULL,
+-- First Name of Employee
+FirstName varchar(20) NOT NULL,
+-- Last Name of Employee 
+LastName varchar(20) NOT NULL,
+-- DepartmentID that employee works in
+DepartmentID int NOT NULL,
+-- Password hash for the user
+Password varchar(20) NOT NULL,
+PRIMARY KEY (EmployeeID)
+);
+
+CREATE TABLE ManagersTable (
+-- System Generated Unique Identifier
+ManagerID int NOT NULL,
+-- First Name of Manager
+FirstName varchar(100) NOT NULL,
+-- Last Name of Manager 
+LastName varchar(100) NOT NULL,
+-- Password hash for the user
+Password varchar(20) NOT NULL,
+PRIMARY KEY (ManagerID)
+);
+
+CREATE TABLE TurnbackData (
+-- System Generated Unique Identifier
+TurnbackID int NOT NULL,
+-- System Generated Unique Identifier
+EmployeeID int NOT NULL,
+-- Unique identifier for the department employee works in
+DepartmentID int NOT NULL,
+-- Unique identifier for the turnback category
+TurnbackCategoryID int NOT NULL,
+-- Unique Identifier for turnback type
+TurnbackTypeID int NOT NULL,
+-- Text field for employee to explain their turnback
+TurnbackTesxt varchar(500),
+PRIMARY KEY (TurnbackID)
+FOREIGN KEY (EmployeeID) REFERENCES EmployeeTable
+
+(EmployeeID)
+FOREIGN KEY (DepartmentID) REFERENCES DepartmentTable
+
+(DepartmentID)
+FOREIGN KEY (TurnbackCategoryID) REFERENCES 
+
+TurnbackCategoryTable(TurnbackCategoryID)
+FOREIGN KEY (TurnbackTypeTable) REFERENCES EmployeeTable
+
+(TurnbackTypeID)
+
+);
+
+CREATE TABLE DepartmentTable (
+-- System Generated Unique Identifier
+DepartmentID int NOT NULL,
+-- Name of department associated with department ID
+DepartmentName varchar(100) NOT NULL,
+PRIMARY KEY (DepartmentID)
+);
+
+CREATE TABLE TurnbackCategoryTable (
+TurnbackCategoryID int NOT NULL,
+TurnbackCategoryName varchar(100) NOT NULL,
+PRIMARY KEY (TurnbackCategoryID)
+);
+
+CREATE TABLE TurnbackTypeTable (
+-- Unique identifier for the turnback Type
+TurnbackTypeID int NOT NULL,
+-- Name of Turnback Type
+TurnbackTypeName varchar(100) NOT NULL,
+PRIMARY KEY (TurnbackTypeID)
+);
